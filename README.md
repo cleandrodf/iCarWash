@@ -14,7 +14,7 @@ A primeira fatia funcional está pronta para desenvolvimento local. Sem banco co
 - **Persistência:** Drizzle ORM e migrações SQL
 - **Busca inicial:** geolocalização do navegador e distância de Haversine
 
-As decisões técnicas e a comparação de provedores estão em [`docs/architecture.md`](docs/architecture.md). A definição funcional está em [`docs/product.md`](docs/product.md).
+As decisões técnicas e a comparação de provedores estão em [`docs/architecture.md`](docs/architecture.md). A definição funcional está em [`docs/product.md`](docs/product.md), e a estratégia de publicação permanente está em [`docs/deployment.md`](docs/deployment.md).
 
 ## Executar localmente
 
@@ -55,6 +55,12 @@ pnpm check
 pnpm test
 pnpm build
 ```
+
+## Hospedagem permanente
+
+O arquivo `render.yaml` permite criar um serviço web diretamente a partir deste repositório. Na primeira implantação, informe `DATABASE_URL` como variável secreta. A Render executará build, migrações e inicialização usando os comandos versionados.
+
+No plano gratuito, o endereço público é permanente, mas a instância suspende após 15 minutos sem acessos. O primeiro acesso após a suspensão pode levar aproximadamente um minuto.
 
 ## Endpoints iniciais
 
