@@ -24,7 +24,7 @@ A variável `DATABASE_URL` é marcada como secreta e precisa ser fornecida no pa
 ## Comandos de implantação
 
 ```text
-Build: corepack enable && pnpm install --frozen-lockfile && pnpm build && pnpm db:migrate
+Build: npm install -g pnpm@10.18.3 && pnpm install --frozen-lockfile && pnpm build && pnpm db:migrate
 Start: pnpm start
 Health check: /api/health
 ```

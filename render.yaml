@@ -5,7 +5,7 @@ services:
     plan: free
     region: ohio
     branch: main
-    buildCommand: corepack enable && pnpm install --frozen-lockfile && pnpm build && pnpm db:migrate
+    buildCommand: npm install -g pnpm@10.18.3 && pnpm install --frozen-lockfile && pnpm build && pnpm db:migrate
     startCommand: pnpm start
     healthCheckPath: /api/health
     autoDeployTrigger: commit
