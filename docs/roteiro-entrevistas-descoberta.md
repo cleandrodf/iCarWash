@@ -1,6 +1,6 @@
 # Roteiro de Entrevistas de Descoberta
 
-**Projeto:** iCarWash  
+**Projeto:** ZeloGO
 **Uso:** Etapa 1 — Mobilização e descoberta  
 **Duração sugerida:** 30 a 45 minutos  
 **Última atualização:** 22 de setembro de 2026
@@ -69,4 +69,4 @@ Declarações sobre o que a pessoa faria no futuro têm menos peso do que relato
 
 ## Referências
 
-[1]: https://github.com/cleandrodf/iCarWash/blob/main/docs/execucao-etapa-1-kickoff.md "Execução da Etapa 1 — Mobilização e Descoberta"
+[1]: https://github.com/cleandrodf/iCarWash/blob/main/docs/execucao-etapa-1-kickoff.md "Execução da Etapa 1 — Mobilização e Descoberta do ZeloGO"

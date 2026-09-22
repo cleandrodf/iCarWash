@@ -1,6 +1,6 @@
 # Registro de Riscos — Etapa 1
 
-**Projeto:** iCarWash  
+**Projeto:** ZeloGO
 **Etapa:** Mobilização e descoberta  
 **Última atualização:** 22 de setembro de 2026
 
@@ -25,4 +25,4 @@ Para cada risco alto, a próxima revisão deve registrar: evidência nova, expos
 
 ## Referências
 
-[1]: https://github.com/cleandrodf/iCarWash/blob/main/docs/execucao-etapa-1-kickoff.md "Execução da Etapa 1 — Mobilização e Descoberta"
+[1]: https://github.com/cleandrodf/iCarWash/blob/main/docs/execucao-etapa-1-kickoff.md "Execução da Etapa 1 — Mobilização e Descoberta do ZeloGO"

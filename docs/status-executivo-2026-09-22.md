@@ -1,6 +1,6 @@
 # Status Executivo — Início da Execução
 
-**Projeto:** iCarWash  
+**Projeto:** ZeloGO
 **Data de referência:** 22 de setembro de 2026  
 **Ciclo:** Etapa 1 — Mobilização e descoberta  
 **Status geral:** Em execução  
@@ -8,7 +8,7 @@
 
 ## Síntese
 
-O projeto saiu da fase de planejamento macro e entrou na execução da primeira etapa. A base técnica existente permanece disponível para demonstração, mas a autorização para construir o MVP operacional dependerá de evidências de problema, oferta, regras de operação, metas e capacidade de execução.
+O projeto ZeloGO saiu da fase de planejamento macro e entrou na execução da primeira etapa. A base técnica existente permanece disponível para demonstração, mas a autorização para construir o MVP operacional dependerá de evidências de problema, oferta, regras de operação, metas e capacidade de execução.
 
 ## Situação por dimensão
 
@@ -45,4 +45,4 @@ Ao final da Etapa 1, o projeto deverá apresentar evidências de problema e dema
 
 ## Referência de gestão
 
-O plano completo está em [`docs/plano-macro-pmbok.md`](plano-macro-pmbok.md). O pacote de kickoff detalha o trabalho, as evidências e os critérios desta etapa.
+O plano consolidado está em [`docs/plano-macro-zelogo.md`](plano-macro-zelogo.md). O pacote de kickoff detalha o trabalho, as evidências e os critérios desta etapa.

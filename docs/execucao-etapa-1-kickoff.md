@@ -1,6 +1,6 @@
 # Execução da Etapa 1 — Mobilização e Descoberta
 
-**Projeto:** iCarWash  
+**Projeto:** ZeloGO
 **Etapa:** 1 de 8 — Mobilização e descoberta  
 **Status:** em execução  
 **Data de início:** 22 de setembro de 2026  
@@ -10,7 +10,7 @@
 
 ## 1. Objetivo desta etapa
 
-A Etapa 1 transforma a proposta preliminar do iCarWash em uma linha de base executiva suficientemente clara para autorizar a construção do MVP operacional. O trabalho não pretende validar toda a operação comercial em duas semanas. Ele deve reduzir as incertezas que poderiam gerar desenvolvimento sem demanda, oferta insuficiente, regras inviáveis ou tratamento inadequado de dados.
+A Etapa 1 transforma a proposta preliminar do ZeloGO em uma linha de base executiva suficientemente clara para autorizar a construção do MVP operacional. O trabalho não pretende validar toda a operação comercial em duas semanas. Ele deve reduzir as incertezas que poderiam gerar desenvolvimento sem demanda, oferta insuficiente, regras inviáveis ou tratamento inadequado de dados.
 
 Ao final da etapa, o projeto deverá ter uma visão de produto validável, partes interessadas identificadas, hipóteses priorizadas, critérios de sucesso mensuráveis, backlog inicial, riscos registrados e decisões pendentes com responsáveis e prazos. O resultado será submetido ao **Gate G1 — autorização para construir**.
 
@@ -252,7 +252,7 @@ Para que a execução avance sem criar autoridade implícita, ficam abertas as s
 5. Aprovar a meta de parceiros e bairros do piloto.
 6. Aprovar o limite de orçamento e a disponibilidade da equipe para as próximas seis semanas.
 7. Designar o responsável por privacidade e contratos.
-8. Confirmar se o nome público continuará como iCarWash ou se LavaMarket será utilizado como marca de interface.
+8. Confirmar a identidade pública, a grafia e a aplicação da marca de trabalho ZeloGO na interface, nas pesquisas e nos documentos.
 
 Enquanto essas decisões não forem tomadas, a equipe pode executar preparação, análise da base, roteiros, backlog e descoberta exploratória. Não deve contratar fornecedores, publicar campanha ampla, coletar dados reais em produção ou iniciar desenvolvimento de alto custo sem autorização correspondente.
 

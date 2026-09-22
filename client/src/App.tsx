@@ -114,9 +114,9 @@ function App() {
   return (
     <div className="app-shell">
       <header className="topbar">
-        <a className="brand" href="#top" aria-label="LavaMarket — início">
+        <a className="brand" href="#top" aria-label="ZeloGO — início">
           <span className="brand-mark"><Sparkles size={19} /></span>
-          <span>Lava<span>Market</span></span>
+          <span>Zelo<span>GO</span></span>
         </a>
         <nav aria-label="Navegação principal">
           <a href="#servicos">Serviços</a>

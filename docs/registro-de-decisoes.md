@@ -1,6 +1,6 @@
 # Registro de Decisões do Projeto
 
-**Projeto:** iCarWash  
+**Projeto:** ZeloGO
 **Status:** aberto  
 **Última atualização:** 22 de setembro de 2026
 
@@ -16,7 +16,7 @@ Este registro concentra decisões que alteram escopo, prioridade, prazo, custo, 
 | D-006 | 22/09/2026 | Capacidade | Aprovar equipe e disponibilidade para seis semanas | Patrocinador | Antes do G1 | Aberta |
 | D-007 | 22/09/2026 | Orçamento | Aprovar limite de investimento e contingência | Patrocinador | Antes do G1 | Aberta |
 | D-008 | 22/09/2026 | Pagamento | Manter pagamento no local no próximo incremento | Product Owner/Patrocinador | Antes do G1 | Proposta |
-| D-009 | 22/09/2026 | Marca | Confirmar uso público de iCarWash ou LavaMarket | Patrocinador/Product Owner | Antes do G2 | Aberta |
+| D-009 | 22/09/2026 | Marca | Adotar ZeloGO como nome de trabalho do marketplace e revisar aplicações de marca | Patrocinador/Product Owner | Imediato | Decidida |
 
 ## Registro de uma decisão
 
@@ -24,4 +24,4 @@ Novas entradas devem registrar o problema, alternativas consideradas, decisão, 
 
 ## Referências
 
-[1]: https://github.com/cleandrodf/iCarWash/blob/main/docs/plano-macro-pmbok.md "Plano Macro do Projeto iCarWash"
+[1]: https://github.com/cleandrodf/iCarWash/blob/main/docs/plano-macro-zelogo.md "Plano Macro do Projeto ZeloGO"

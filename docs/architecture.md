@@ -1,4 +1,4 @@
-# Arquitetura inicial do Marketplace de Lavagem Automotiva
+# Arquitetura inicial do ZeloGO
 
 **Status:** aprovado para o MVP  
 **Data:** 22 de setembro de 2026  
@@ -8,7 +8,7 @@
 
 A aplicação será executada localmente durante o desenvolvimento e usará **PostgreSQL gerenciado na nuvem**. O frontend será construído com React e Vite. A API será implementada com Node.js e Express. O acesso ao banco usará Drizzle ORM, com migrações SQL versionadas no repositório.
 
-A primeira versão cobre uma fatia vertical do produto: localização do cliente, busca de parceiros por proximidade aproximada, filtro entre atendimento no estabelecimento e atendimento móvel, consulta de serviços e horários, e solicitação de agendamento pendente de confirmação pelo parceiro. O pagamento permanece no local.
+A primeira versão cobre uma fatia vertical do ZeloGO: localização do cliente, busca de parceiros por proximidade aproximada, filtro entre atendimento no estabelecimento e atendimento móvel, consulta de serviços e horários, e solicitação de agendamento pendente de confirmação pelo parceiro. A vertical inicial é lavagem e cuidados automotivos. O pagamento permanece no local.
 
 ## Alternativas avaliadas
 

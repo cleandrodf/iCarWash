@@ -1,4 +1,4 @@
-# Definição do MVP — Marketplace de Lavagem Automotiva
+# Definição do MVP — ZeloGO
 
 **Status:** decisões iniciais confirmadas  
 **Piloto:** Brasília, Distrito Federal, Brasil  
@@ -7,7 +7,7 @@
 
 ## Proposta
 
-O marketplace conecta clientes a estabelecimentos e profissionais de lavagem automotiva. O cliente pode solicitar atendimento em uma unidade física ou em seu próprio endereço. A plataforma sugere preliminarmente as opções mais próximas, apresenta serviços e horários e registra uma solicitação de agendamento.
+O ZeloGO conecta clientes a estabelecimentos e profissionais de lavagem e cuidados automotivos. A primeira vertical é lavagem automotiva, com validação específica para carros e motocicletas. O cliente pode solicitar atendimento em uma unidade física ou em seu próprio endereço. A plataforma sugere preliminarmente as opções mais próximas, apresenta serviços e horários e registra uma solicitação de agendamento.
 
 O parceiro publica sua grade de horários. No MVP, o horário solicitado fica pendente até que o parceiro confirme. O pagamento é realizado diretamente no local do atendimento, sem intermediação financeira pela plataforma.
 

@@ -1,6 +1,6 @@
-# LavaMarket
+# ZeloGO
 
-Marketplace de serviços de lavagem automotiva para Brasília. O MVP permite localizar parceiros próximos, filtrar atendimento no estabelecimento ou no endereço do cliente, consultar serviços e horários e solicitar um agendamento com pagamento no local.
+Marketplace de serviços de lavagem e cuidados automotivos para Brasília. O MVP permite localizar parceiros próximos, filtrar atendimento no estabelecimento ou no endereço do cliente, consultar serviços e horários e solicitar um agendamento com pagamento no local.
 
 ## Estado atual
 
@@ -14,7 +14,7 @@ A primeira fatia funcional está pronta para desenvolvimento local. Sem banco co
 - **Persistência:** Drizzle ORM e migrações SQL
 - **Busca inicial:** geolocalização do navegador e distância de Haversine
 
-As decisões técnicas e a comparação de provedores estão em [`docs/architecture.md`](docs/architecture.md). A definição funcional está em [`docs/product.md`](docs/product.md), a estratégia de publicação permanente está em [`docs/deployment.md`](docs/deployment.md), o plano completo de execução está em [`docs/plano-macro-pmbok.md`](docs/plano-macro-pmbok.md), e o kickoff da Etapa 1 está em [`docs/execucao-etapa-1-kickoff.md`](docs/execucao-etapa-1-kickoff.md). O status executivo atual está em [`docs/status-executivo-2026-09-22.md`](docs/status-executivo-2026-09-22.md).
+As decisões técnicas e a comparação de provedores estão em [`docs/architecture.md`](docs/architecture.md). A definição funcional está em [`docs/product.md`](docs/product.md), a estratégia de publicação permanente está em [`docs/deployment.md`](docs/deployment.md), o plano consolidado de execução está em [`docs/plano-macro-zelogo.md`](docs/plano-macro-zelogo.md), e o kickoff da Etapa 1 está em [`docs/execucao-etapa-1-kickoff.md`](docs/execucao-etapa-1-kickoff.md). O status executivo atual está em [`docs/status-executivo-2026-09-22.md`](docs/status-executivo-2026-09-22.md).
 
 Os registros de execução ficam em [`docs/registro-de-decisoes.md`](docs/registro-de-decisoes.md), [`docs/registro-de-riscos.md`](docs/registro-de-riscos.md), [`docs/roteiro-entrevistas-descoberta.md`](docs/roteiro-entrevistas-descoberta.md) e [`docs/dicionario-indicadores-piloto.md`](docs/dicionario-indicadores-piloto.md).
 

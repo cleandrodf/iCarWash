@@ -1,4 +1,4 @@
-# Hospedagem permanente do iCarWash
+# Hospedagem permanente do ZeloGO
 
 **Decisão:** Render Web Service conectado ao GitHub  
 **Banco:** Neon PostgreSQL  

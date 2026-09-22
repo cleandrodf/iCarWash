@@ -1,6 +1,6 @@
 # Pesquisas de Descoberta — LimeSurvey e Outras Plataformas
 
-**Projeto:** iCarWash  
+**Projeto:** ZeloGO
 **Versão:** 1.0  
 **Data:** 22 de setembro de 2026  
 **Idioma:** Português do Brasil  
@@ -21,8 +21,8 @@ A estrutura inclui grupos de perguntas, tipos de resposta, obrigatoriedade, opç
 
 | Público | Importação nativa | Formato portátil |
 |---|---|---|
-| Clientes | [`icarwash-pesquisa-clientes.lss`](pesquisa/icarwash-pesquisa-clientes.lss) | [`icarwash-pesquisa-clientes.csv`](pesquisa/icarwash-pesquisa-clientes.csv) |
-| Parceiros | [`icarwash-pesquisa-parceiros.lss`](pesquisa/icarwash-pesquisa-parceiros.lss) | [`icarwash-pesquisa-parceiros.csv`](pesquisa/icarwash-pesquisa-parceiros.csv) |
+| Clientes | [`zelogo-pesquisa-clientes.lss`](pesquisa/zelogo-pesquisa-clientes.lss) | [`zelogo-pesquisa-clientes.csv`](pesquisa/zelogo-pesquisa-clientes.csv) |
+| Parceiros | [`zelogo-pesquisa-parceiros.lss`](pesquisa/zelogo-pesquisa-parceiros.lss) | [`zelogo-pesquisa-parceiros.csv`](pesquisa/zelogo-pesquisa-parceiros.csv) |
 
 Os arquivos foram gerados pelo script versionado [`scripts/generate-limesurvey.py`](../scripts/generate-limesurvey.py). Isso permite revisar ou alterar perguntas e gerar novamente os arquivos sem edição manual do XML.
 
@@ -35,10 +35,10 @@ O arquivo `.lss` transporta a estrutura da pesquisa, incluindo grupos, perguntas
 Recomenda-se este procedimento:
 
 1. Criar uma pesquisa nova para clientes.
-2. Importar `icarwash-pesquisa-clientes.lss`.
+2. Importar `zelogo-pesquisa-clientes.lss`.
 3. Pré-visualizar todas as rotas, inclusive a rota de motocicletas.
 4. Criar uma segunda pesquisa nova para parceiros.
-5. Importar `icarwash-pesquisa-parceiros.lss`.
+5. Importar `zelogo-pesquisa-parceiros.lss`.
 6. Pré-visualizar as rotas para estabelecimento fixo, prestador móvel e operação combinada.
 7. Fazer um teste com duas respostas fictícias por pesquisa.
 8. Confirmar que a lógica de relevância não exibe perguntas fora do perfil informado.
@@ -94,7 +94,7 @@ A pesquisa tem 19 perguntas. A duração estimada é de oito a doze minutos.
 
 ## 6. Orientações metodológicas
 
-A pesquisa deve investigar comportamentos recentes e não induzir o participante a aprovar o iCarWash. A abertura deve informar que a pesquisa não representa promessa de contratação, benefício ou participação no piloto.
+A pesquisa deve investigar comportamentos recentes e não induzir o participante a aprovar o ZeloGO. A abertura deve informar que a pesquisa não representa promessa de contratação, benefício ou participação no piloto.
 
 A coleta deve evitar dados pessoais desnecessários. Não é necessário solicitar nome, telefone, endereço completo ou dados do veículo para a etapa de descoberta. Se houver interesse em convidar participantes para uma entrevista posterior, utilize um formulário separado para contato ou uma pergunta opcional com finalidade claramente informada.
 

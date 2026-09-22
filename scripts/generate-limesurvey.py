@@ -110,7 +110,7 @@ def base_survey_row(sid: int, admin_email: str = "") -> dict[str, str]:
     values = {field: "" for field in SURVEY_FIELDS}
     values.update({
         "sid": str(sid),
-        "admin": "iCarWash",
+        "admin": "ZeloGO",
         "adminemail": admin_email,
         "anonymized": "Y",
         "format": "G",
@@ -163,8 +163,8 @@ def language_row(sid: int, title: str, description: str, welcome: str, end: str)
         "surveyls_description": description,
         "surveyls_welcometext": welcome,
         "surveyls_endtext": end,
-        "surveyls_email_invite_subj": "Convite para participar da pesquisa iCarWash",
-        "surveyls_email_remind_subj": "Lembrete: pesquisa iCarWash",
+        "surveyls_email_invite_subj": "Convite para participar da pesquisa ZeloGO",
+        "surveyls_email_remind_subj": "Lembrete: pesquisa ZeloGO",
         "surveyls_dateformat": "5",
         "surveyls_numberformat": "0",
     })
@@ -252,28 +252,28 @@ partner_questions = [
     {"qid": 15, "title": "P15_PORTAL", "type": "M", "question": "O que poderia dificultar o uso diário de um portal? Selecione todas as opções aplicáveis.", "options": [("TEMPO", "Falta de tempo"), ("TECNOLOGIA", "Dificuldade tecnológica"), ("AGENDA", "Atualizar a agenda"), ("EQUIPE", "Mais de uma pessoa usando a operação"), ("NOTIFICACOES", "Receber e acompanhar notificações"), ("INTERNET", "Conectividade"), ("NADA", "Nada em especial")], "other": True},
     {"qid": 16, "title": "P16_MODELO", "type": "L", "question": "Qual modelo de cobrança pareceria mais compreensível para um teste inicial?", "options": [("SEM_CUSTO", "Sem custo durante o piloto"), ("POR_PEDIDO", "Taxa por agendamento confirmado"), ("COMISSAO", "Percentual sobre o serviço"), ("ASSINATURA", "Assinatura mensal"), ("LEAD", "Cobrança por cliente interessado"), ("OUTRO", "Outro")], "other": True},
     {"qid": 17, "title": "P17_CAPACIDADE_PILOTO", "type": "N", "question": "Quantos horários por semana você conseguiria disponibilizar para um piloto controlado?", "attributes": {"min_num_value_n": "0", "maximum_chars": "4"}},
-    {"qid": 18, "title": "P18_PILOTO", "type": "Y", "question": "Você aceitaria participar de um piloto controlado do iCarWash em Brasília?", "help": "A resposta não representa contratação ou obrigação comercial."},
+    {"qid": 18, "title": "P18_PILOTO", "type": "Y", "question": "Você aceitaria participar de um piloto controlado do ZeloGO em Brasília?", "help": "A resposta não representa contratação ou obrigação comercial."},
     {"qid": 19, "title": "P19_COMENTARIO", "type": "T", "question": "Que condição seria indispensável para você confiar e continuar usando uma plataforma desse tipo?", "attributes": {"maximum_chars": "1000"}},
 ]
 
 write_lss(
-    "icarwash-pesquisa-clientes.lss",
+    "zelogo-pesquisa-clientes.lss",
     946201,
-    "Pesquisa com clientes potenciais — iCarWash",
+    "Pesquisa com clientes potenciais — ZeloGO",
     "Pesquisa de descoberta sobre hábitos de lavagem de carros e motocicletas em Brasília.",
     "Esta pesquisa busca entender experiências reais. Não há promessa de contratação ou benefício. Evite informar dados pessoais desnecessários. Tempo estimado: 5 a 8 minutos.",
-    "Obrigado. Suas respostas ajudarão a definir o piloto do iCarWash.",
+    "Obrigado. Suas respostas ajudarão a definir o piloto do ZeloGO.",
     client_questions,
 )
 write_lss(
-    "icarwash-pesquisa-parceiros.lss",
+    "zelogo-pesquisa-parceiros.lss",
     946202,
-    "Pesquisa com parceiros de lavagem — iCarWash",
+    "Pesquisa com parceiros de lavagem — ZeloGO",
     "Pesquisa de descoberta com estabelecimentos e prestadores de lavagem automotiva e de motocicletas em Brasília.",
     "Esta pesquisa busca entender a operação atual dos parceiros. Não há promessa de contratação ou benefício. Evite informar dados pessoais desnecessários. Tempo estimado: 8 a 12 minutos.",
-    "Obrigado. Suas respostas ajudarão a estruturar o piloto do iCarWash.",
+    "Obrigado. Suas respostas ajudarão a estruturar o piloto do ZeloGO.",
     partner_questions,
 )
-write_csv("icarwash-pesquisa-clientes.csv", "clientes", client_questions)
-write_csv("icarwash-pesquisa-parceiros.csv", "parceiros", partner_questions)
+write_csv("zelogo-pesquisa-clientes.csv", "clientes", client_questions)
+write_csv("zelogo-pesquisa-parceiros.csv", "parceiros", partner_questions)
 print("Arquivos gerados em", OUT)

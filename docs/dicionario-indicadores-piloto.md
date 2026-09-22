@@ -1,6 +1,6 @@
 # Dicionário Inicial de Indicadores do Piloto
 
-**Projeto:** iCarWash  
+**Projeto:** ZeloGO
 **Etapa:** Mobilização e descoberta  
 **Última atualização:** 22 de setembro de 2026
 
@@ -33,4 +33,4 @@ Esses valores são hipóteses de gestão. A equipe deve confirmar se a amostra, 
 
 ## Referências
 
-[1]: https://github.com/cleandrodf/iCarWash/blob/main/docs/plano-macro-pmbok.md "Plano Macro do Projeto iCarWash"
+[1]: https://github.com/cleandrodf/iCarWash/blob/main/docs/plano-macro-zelogo.md "Plano Macro do Projeto ZeloGO"
