@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.local
+.neon-claim/
+*.log
+dist/
+dist-server/
+coverage/
+.DS_Store
+.vscode/
+.idea/
