@@ -14,7 +14,9 @@ A primeira fatia funcional está pronta para desenvolvimento local. Sem banco co
 - **Persistência:** Drizzle ORM e migrações SQL
 - **Busca inicial:** geolocalização do navegador e distância de Haversine
 
-As decisões técnicas e a comparação de provedores estão em [`docs/architecture.md`](docs/architecture.md). A definição funcional está em [`docs/product.md`](docs/product.md), a estratégia de publicação permanente está em [`docs/deployment.md`](docs/deployment.md), e o plano completo de execução está em [`docs/plano-macro-pmbok.md`](docs/plano-macro-pmbok.md).
+As decisões técnicas e a comparação de provedores estão em [`docs/architecture.md`](docs/architecture.md). A definição funcional está em [`docs/product.md`](docs/product.md), a estratégia de publicação permanente está em [`docs/deployment.md`](docs/deployment.md), o plano completo de execução está em [`docs/plano-macro-pmbok.md`](docs/plano-macro-pmbok.md), e o kickoff da Etapa 1 está em [`docs/execucao-etapa-1-kickoff.md`](docs/execucao-etapa-1-kickoff.md). O status executivo atual está em [`docs/status-executivo-2026-09-22.md`](docs/status-executivo-2026-09-22.md).
+
+Os registros de execução ficam em [`docs/registro-de-decisoes.md`](docs/registro-de-decisoes.md), [`docs/registro-de-riscos.md`](docs/registro-de-riscos.md), [`docs/roteiro-entrevistas-descoberta.md`](docs/roteiro-entrevistas-descoberta.md) e [`docs/dicionario-indicadores-piloto.md`](docs/dicionario-indicadores-piloto.md).
 
 ## Executar localmente
 
