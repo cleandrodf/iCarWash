@@ -8,7 +8,7 @@
 
 ## 1. Status
 
-A pesquisa está pronta em duas versões separadas:
+A pesquisa está pronta em duas versões separadas. A execução inicial do projeto será concentrada em carros; as perguntas sobre motocicletas permanecem apenas para medir uma hipótese de expansão posterior:
 
 - uma pesquisa para **clientes potenciais**;
 - uma pesquisa para **parceiros de lavagem automotiva e de motocicletas**.

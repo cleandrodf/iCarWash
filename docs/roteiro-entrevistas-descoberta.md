@@ -7,7 +7,7 @@
 
 ## Orientações de condução
 
-A entrevista deve investigar comportamentos recentes, não buscar aprovação da solução. O entrevistador deve evitar apresentar telas ou funcionalidades antes de entender a situação atual. O registro deve usar um identificador anônimo e não deve conter dados pessoais desnecessários.
+A entrevista deve investigar comportamentos recentes, não buscar aprovação da solução. O foco operacional inicial é carro; motocicletas podem ser investigadas apenas como hipótese de expansão. O entrevistador deve evitar apresentar telas ou funcionalidades antes de entender a situação atual. O registro deve usar um identificador anônimo e não deve conter dados pessoais desnecessários.
 
 Antes de iniciar, explique o objetivo da conversa, peça autorização para registrar notas e informe que não há promessa de contratação, benefício ou participação no piloto.
 

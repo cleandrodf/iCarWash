@@ -14,9 +14,9 @@ A primeira fatia funcional está pronta para desenvolvimento local. Sem banco co
 - **Persistência:** Drizzle ORM e migrações SQL
 - **Busca inicial:** geolocalização do navegador e distância de Haversine
 
-As decisões técnicas e a comparação de provedores estão em [`docs/architecture.md`](docs/architecture.md). A definição funcional está em [`docs/product.md`](docs/product.md), a estratégia de publicação permanente está em [`docs/deployment.md`](docs/deployment.md), o plano consolidado de execução está em [`docs/plano-macro-zelogo.md`](docs/plano-macro-zelogo.md), e o kickoff da Etapa 1 está em [`docs/execucao-etapa-1-kickoff.md`](docs/execucao-etapa-1-kickoff.md). O status executivo atual está em [`docs/status-executivo-2026-09-22.md`](docs/status-executivo-2026-09-22.md).
+As decisões técnicas e a comparação de provedores estão em [`docs/architecture.md`](docs/architecture.md). A definição funcional está em [`docs/product.md`](docs/product.md), a estratégia de publicação permanente está em [`docs/deployment.md`](docs/deployment.md), e a proposta aprovada como baseline ativa está em [`docs/Plano-Macro-Projeto-ZeloGO-v1.2.docx`](docs/Plano-Macro-Projeto-ZeloGO-v1.2.docx). A avaliação da proposta está em [`docs/avaliacao-plano-v1.2.md`](docs/avaliacao-plano-v1.2.md), e o pacote executável da Etapa 1 está em [`docs/etapa-1/`](docs/etapa-1/).
 
-Os registros de execução ficam em [`docs/registro-de-decisoes.md`](docs/registro-de-decisoes.md), [`docs/registro-de-riscos.md`](docs/registro-de-riscos.md), [`docs/roteiro-entrevistas-descoberta.md`](docs/roteiro-entrevistas-descoberta.md) e [`docs/dicionario-indicadores-piloto.md`](docs/dicionario-indicadores-piloto.md).
+Os registros de execução ficam em [`docs/registro-de-decisoes.md`](docs/registro-de-decisoes.md), [`docs/registro-de-riscos.md`](docs/registro-de-riscos.md), [`docs/roteiro-entrevistas-descoberta.md`](docs/roteiro-entrevistas-descoberta.md) e [`docs/dicionario-indicadores-piloto.md`](docs/dicionario-indicadores-piloto.md). O plano v1.1 permanece no repositório como histórico técnico.
 
 As pesquisas prontas para LimeSurvey e outras plataformas estão documentadas em [`docs/pesquisa-limesurvey.md`](docs/pesquisa-limesurvey.md), com arquivos LSS nativos e CSV portáteis em [`docs/pesquisa/`](docs/pesquisa/).
 
@@ -74,7 +74,11 @@ No plano gratuito, o endereço público é permanente, mas a instância suspende
 | GET | `/api/partners/nearby?lat=&lng=&mode=` | Lista parceiros ordenados por distância aproximada |
 | POST | `/api/bookings` | Cria uma solicitação pendente de confirmação |
 
-## Próximos incrementos
+## Início do projeto — Etapa 1
+
+O trabalho ativo começou com discovery e seleção hiperlocal. O objetivo imediato é escolher uma microrregião, identificar parceiros-design, validar necessidades reais e preparar o Concierge MVP para o Gate G0. O backlog executável está em [`docs/etapa-1/backlog-v1.2.md`](docs/etapa-1/backlog-v1.2.md). Não há autorização para construir o portal completo do parceiro, abrir campanha comercial ampla ou processar pagamentos online antes dos gates correspondentes.
+
+## Próximos incrementos técnicos
 
 1. Autenticação e autorização para cliente, parceiro e administrador.
 2. Portal do parceiro com grade de horários e confirmação de solicitações.

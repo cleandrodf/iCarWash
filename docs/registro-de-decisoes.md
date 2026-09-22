@@ -17,6 +17,9 @@ Este registro concentra decisões que alteram escopo, prioridade, prazo, custo, 
 | D-007 | 22/09/2026 | Orçamento | Aprovar limite de investimento e contingência | Patrocinador | Antes do G1 | Aberta |
 | D-008 | 22/09/2026 | Pagamento | Manter pagamento no local no próximo incremento | Product Owner/Patrocinador | Antes do G1 | Proposta |
 | D-009 | 22/09/2026 | Marca | Adotar ZeloGO como nome de trabalho do marketplace e revisar aplicações de marca | Patrocinador/Product Owner | Imediato | Decidida |
+| D-010 | 22/09/2026 | Baseline | Adotar o Plano Macro ZeloGO v1.2 como referência ativa e preservar a v1.1 como histórico | Responsável do projeto | Imediato | Decidida |
+| D-011 | 22/09/2026 | Execução | Autorizar discovery e seleção hiperlocal, sem autorizar construção ampla ou escala | Responsável do projeto | Gate G0 | Decidida |
+| D-012 | 22/09/2026 | Escopo | Restringir a primeira execução a carros; manter motocicletas como hipótese pós-validação | Product Owner/Patrocinador | Gate G0 | Decidida |
 
 ## Registro de uma decisão
 
@@ -24,4 +27,4 @@ Novas entradas devem registrar o problema, alternativas consideradas, decisão, 
 
 ## Referências
 
-[1]: https://github.com/cleandrodf/iCarWash/blob/main/docs/plano-macro-zelogo.md "Plano Macro do Projeto ZeloGO"
+[1]: https://github.com/cleandrodf/iCarWash/blob/main/docs/Plano-Macro-Projeto-ZeloGO-v1.2.docx "Plano Macro do Projeto ZeloGO — Versão 1.2"

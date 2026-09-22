@@ -1,4 +1,4 @@
-# Execução da Etapa 1 — Mobilização e Descoberta
+# Execução da Etapa 1 — Mobilização e Descoberta (Histórico v1.0)
 
 **Projeto:** ZeloGO
 **Etapa:** 1 de 8 — Mobilização e descoberta  
@@ -7,6 +7,8 @@
 **Duração de referência:** 2 semanas  
 **Região piloto:** Brasília, Distrito Federal  
 **Versão:** 1.0
+
+> Este documento registra o kickoff anterior. A baseline ativa é a v1.2, com pacote executável em [`docs/etapa-1/`](etapa-1/), Gate G0 na Semana 2 e Concierge MVP nas Semanas 3–4.
 
 ## 1. Objetivo desta etapa
 

@@ -18,6 +18,16 @@ A escala usa probabilidade e impacto em três níveis. Riscos de exposição alt
 | R8 | Plano gratuito não suportar tráfego comercial | Média | Médio | Média | Definir gatilhos de migração e estimar custo | Tecnologia | Antes do piloto |
 | R9 | Escopo incorporar pagamentos antes da validação | Média | Alto | Alta | Manter pagamento no local e aplicar controle de mudanças | Product Owner | Quinzenal |
 | R10 | Dados demonstrativos serem confundidos com ofertas reais | Média | Médio | Média | Separar ambientes e rotular dados | Tecnologia/Operações | Antes do piloto |
+| R11 | Dano ao veículo ou objeto do cliente | Média | Alto | Alta | Definir termos, evidência proporcional, investigação e tratamento | Trust & Safety/Jurídico | Antes do Concierge |
+| R12 | Acesso inseguro a residência ou condomínio | Média | Alto | Alta | Limitar a modalidade, orientar partes e definir resposta a incidentes | Trust & Safety | Antes do Concierge móvel |
+| R13 | Fraude, falso atendimento ou avaliação abusiva | Média | Alto | Alta | Registrar auditoria, moderação, anomalias e suspensão | Trust & Safety | Antes do piloto |
+| R14 | Relações de consumo e responsabilidade mal definidas | Média | Alto | Alta | Revisar papel da plataforma e contratos antes do piloto aberto | Jurídico | Antes do piloto |
+| R15 | Monetização reduzir a ativação dos parceiros | Média | Alto | Alta | Testar modelos manualmente e medir comportamento | Negócio | Durante o Concierge |
+| R16 | Economia unitária inviável | Alta | Alto | Alta | Medir custos por serviço concluído e revisar no G4 | Produto/Finanças | Semana 16 |
+| R17 | Desintermediação após o primeiro contato | Alta | Alto | Alta | Medir perda, reforçar agenda, confiança, suporte e conveniência | Produto/Negócio | Durante o piloto |
+| R18 | Dupla reserva ou inconsistência de estado | Média | Alto | Alta | Usar transação, idempotência e testes concorrentes | Tecnologia | Antes do piloto |
+| R19 | Incapacidade de medir a intervenção manual | Média | Alto | Alta | Tornar canal, tempo, responsável e resultado obrigatórios no log | Gerente/Operações | Antes do Concierge |
+| R20 | Expansão geográfica antes de comprovar replicabilidade | Média | Alto | Alta | Condicionar novo cluster ao G7 e a critérios explícitos | Patrocinador | G7 |
 
 ## Resposta padrão
 

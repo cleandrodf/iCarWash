@@ -1,13 +1,13 @@
 # Definição do MVP — ZeloGO
 
-**Status:** decisões iniciais confirmadas  
+**Status:** baseline v1.2 adotada para discovery
 **Piloto:** Brasília, Distrito Federal, Brasil  
 **Data:** 22 de setembro de 2026  
 **Autor:** Manus AI
 
 ## Proposta
 
-O ZeloGO conecta clientes a estabelecimentos e profissionais de lavagem e cuidados automotivos. A primeira vertical é lavagem automotiva, com validação específica para carros e motocicletas. O cliente pode solicitar atendimento em uma unidade física ou em seu próprio endereço. A plataforma sugere preliminarmente as opções mais próximas, apresenta serviços e horários e registra uma solicitação de agendamento.
+O ZeloGO conecta clientes a estabelecimentos e profissionais de lavagem e cuidados automotivos. A primeira execução será restrita a serviços para carros. Motocicletas e outras categorias permanecem como hipóteses de expansão pós-validação. O cliente pode solicitar atendimento em uma unidade física ou em seu próprio endereço. A plataforma sugere preliminarmente as opções mais próximas, apresenta serviços e horários e registra uma solicitação de agendamento.
 
 O parceiro publica sua grade de horários. No MVP, o horário solicitado fica pendente até que o parceiro confirme. O pagamento é realizado diretamente no local do atendimento, sem intermediação financeira pela plataforma.
 
@@ -21,7 +21,8 @@ Cada parceiro apresenta avaliação, bairro, modalidades, serviços, preços e p
 
 | Tema | Decisão do MVP |
 |---|---|
-| Região piloto | Brasília, Distrito Federal |
+| Região piloto | Brasília, Distrito Federal, começando por uma microrregião hiperlocal |
+| Escopo inicial de veículo | Carros |
 | Modalidades | No estabelecimento e no endereço do cliente |
 | Ordenação | Proximidade aproximada em relação ao cliente |
 | Disponibilidade | Grade publicada pelo parceiro |
@@ -46,9 +47,9 @@ A reserva deve incrementar a ocupação do horário dentro da mesma transação 
 
 O cálculo inicial usa distância em linha reta e não considera rotas ou trânsito. A interface ainda não autentica clientes nem parceiros. O modo sem banco usa dados demonstrativos e não preserva solicitações depois que o processo é reiniciado. Os parceiros apresentados no seed são exemplos de desenvolvimento, não estabelecimentos validados comercialmente.
 
-## Próximo incremento
+## Próximo incremento condicionado ao G1
 
-O próximo incremento deve acrescentar autenticação e papéis, portal do parceiro, gestão da grade, confirmação ou rejeição do agendamento e painel administrativo. Também deve substituir os dados demonstrativos por parceiros reais do piloto e definir termos, política de cancelamento e tratamento de dados pessoais.
+Somente após o G1, o próximo incremento poderá acrescentar autenticação e papéis, portal mínimo do parceiro, gestão da grade, confirmação ou rejeição do agendamento e painel administrativo. Também deverá substituir gradualmente os dados demonstrativos por parceiros homologados do piloto e definir termos, política de cancelamento, Trust & Safety e tratamento de dados pessoais.
 
 ## Referências
 

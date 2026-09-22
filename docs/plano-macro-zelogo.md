@@ -1,13 +1,13 @@
 # Plano Macro do Projeto ZeloGO
 
-**Versão:** 1.1  
+**Versão:** 1.1 — histórico
 **Data:** 22 de setembro de 2026  
-**Status:** versão consolidada para aprovação executiva  
+**Status:** substituída pela baseline ativa v1.2; preservada para rastreabilidade
 **Autor:** Manus AI  
 **Nome de trabalho:** ZeloGO  
 **Horizonte de referência:** 36 semanas  
 **Mercado piloto:** Brasília, Distrito Federal, iniciado por uma microrregião hiperlocal a ser selecionada na descoberta  
-**Vertical inicial:** lavagem e cuidados automotivos, incluindo validação específica para carros e motocicletas
+**Vertical inicial da versão:** lavagem e cuidados automotivos, incluindo validação específica para carros e motocicletas. A v1.2 restringe a primeira execução a carros.
 
 > **Princípio orientador:** “Antes de comprovar o mercado, investir prioritariamente em aprendizado. Depois de validar a tese, investir em escala.”
 
@@ -17,6 +17,7 @@
 |---|---|---|
 | 1.0 | 22/09/2026 | Plano macro inicial, com base técnica, governança híbrida e roadmap de 36 semanas. |
 | 1.1 | 22/09/2026 | Revisão crítica para transformar o plano em uma estratégia de construção, validação e escala de marketplace. Inclui Concierge MVP, piloto hiperlocal, gates econômicos, monetização antecipada, Trust & Safety, Jurídico Regulatório e Privacidade, árvore de métricas, unit economics e equipe enxuta. |
+| 1.2 | 22/09/2026 | Baseline ativa em documento DOCX separado: escopo inicial restrito a carros, alternativa viável definida, limiares ex ante, risco de desintermediação, métricas econômicas do parceiro, expansão após G7 e plano de 30/60/90/120 dias. |
 
 ## 1. Resumo executivo
 
