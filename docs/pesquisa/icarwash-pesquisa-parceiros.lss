@@ -1,0 +1,1396 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document>
+ <LimeSurveyDocType>Survey</LimeSurveyDocType>
+ <DBVersion>261</DBVersion>
+ <languages>
+  <language>pt-BR</language>
+ </languages>
+ <answers>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>code</fieldname>
+   <fieldname>answer</fieldname>
+   <fieldname>sortorder</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>assessment_value</fieldname>
+   <fieldname>scale_id</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid>1</qid>
+    <code>FIXO</code>
+    <answer>Estabelecimento fixo</answer>
+    <sortorder>1</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>1</qid>
+    <code>MOVEL</code>
+    <answer>Prestador móvel</answer>
+    <sortorder>2</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>1</qid>
+    <code>AMBOS</code>
+    <answer>Estabelecimento e atendimento móvel</answer>
+    <sortorder>3</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>1</qid>
+    <code>OUTRO</code>
+    <answer>Outro</answer>
+    <sortorder>4</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>2</qid>
+    <code>PLANO</code>
+    <answer>Plano Piloto</answer>
+    <sortorder>1</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>2</qid>
+    <code>AGUAS</code>
+    <answer>Águas Claras</answer>
+    <sortorder>2</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>2</qid>
+    <code>TAGUATINGA</code>
+    <answer>Taguatinga</answer>
+    <sortorder>3</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>2</qid>
+    <code>CEILANDIA</code>
+    <answer>Ceilândia</answer>
+    <sortorder>4</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>2</qid>
+    <code>SAMAMBAIA</code>
+    <answer>Samambaia</answer>
+    <sortorder>5</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>2</qid>
+    <code>VARIAS_DF</code>
+    <answer>Várias regiões do Distrito Federal</answer>
+    <sortorder>6</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>2</qid>
+    <code>OUTRA</code>
+    <answer>Outra</answer>
+    <sortorder>7</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>3</qid>
+    <code>CARRO</code>
+    <answer>Carros</answer>
+    <sortorder>1</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>3</qid>
+    <code>MOTO</code>
+    <answer>Motocicletas</answer>
+    <sortorder>2</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>3</qid>
+    <code>OUTRO</code>
+    <answer>Outros veículos</answer>
+    <sortorder>3</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>4</qid>
+    <code>INDICACAO</code>
+    <answer>Indicação</answer>
+    <sortorder>1</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>4</qid>
+    <code>PASSAGEM</code>
+    <answer>Clientes que passam pelo local</answer>
+    <sortorder>2</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>4</qid>
+    <code>GOOGLE</code>
+    <answer>Google ou mapas</answer>
+    <sortorder>3</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>4</qid>
+    <code>REDES</code>
+    <answer>Redes sociais</answer>
+    <sortorder>4</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>4</qid>
+    <code>ANUNCIOS</code>
+    <answer>Anúncios pagos</answer>
+    <sortorder>5</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>4</qid>
+    <code>RECORRENTE</code>
+    <answer>Clientes recorrentes</answer>
+    <sortorder>6</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>4</qid>
+    <code>PARCERIAS</code>
+    <answer>Parcerias com empresas</answer>
+    <sortorder>7</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>6</qid>
+    <code>PAPEL</code>
+    <answer>Papel ou caderno</answer>
+    <sortorder>1</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>6</qid>
+    <code>PLANILHA</code>
+    <answer>Planilha</answer>
+    <sortorder>2</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>6</qid>
+    <code>WHATSAPP</code>
+    <answer>WhatsApp ou mensagens</answer>
+    <sortorder>3</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>6</qid>
+    <code>SISTEMA</code>
+    <answer>Sistema próprio ou aplicativo</answer>
+    <sortorder>4</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>6</qid>
+    <code>MEMORIA</code>
+    <answer>Memória ou controle informal</answer>
+    <sortorder>5</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>7</qid>
+    <code>NUNCA</code>
+    <answer>Nunca ou quase nunca</answer>
+    <sortorder>1</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>7</qid>
+    <code>RARO</code>
+    <answer>Raramente</answer>
+    <sortorder>2</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>7</qid>
+    <code>MENSAL</code>
+    <answer>Algumas vezes por mês</answer>
+    <sortorder>3</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>7</qid>
+    <code>SEMANAL</code>
+    <answer>Toda semana</answer>
+    <sortorder>4</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>7</qid>
+    <code>DIARIO</code>
+    <answer>Quase todos os dias</answer>
+    <sortorder>5</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>8</qid>
+    <code>BASICA</code>
+    <answer>Lavagem básica</answer>
+    <sortorder>1</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>8</qid>
+    <code>DETALHADA</code>
+    <answer>Lavagem detalhada</answer>
+    <sortorder>2</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>8</qid>
+    <code>RODAS</code>
+    <answer>Limpeza de rodas</answer>
+    <sortorder>3</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>8</qid>
+    <code>CORRENTE</code>
+    <answer>Limpeza ou cuidado da corrente</answer>
+    <sortorder>4</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>8</qid>
+    <code>HIGIENIZACAO</code>
+    <answer>Higienização</answer>
+    <sortorder>5</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>8</qid>
+    <code>POLIMENTO</code>
+    <answer>Polimento</answer>
+    <sortorder>6</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>8</qid>
+    <code>NENHUM</code>
+    <answer>Nenhum desses</answer>
+    <sortorder>7</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>10</qid>
+    <code>DIAS_UTEIS</code>
+    <answer>Dias úteis</answer>
+    <sortorder>1</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>10</qid>
+    <code>FIM_SEMANA</code>
+    <answer>Fim de semana</answer>
+    <sortorder>2</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>10</qid>
+    <code>MANHA</code>
+    <answer>Manhã</answer>
+    <sortorder>3</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>10</qid>
+    <code>TARDE</code>
+    <answer>Tarde</answer>
+    <sortorder>4</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>10</qid>
+    <code>NOITE</code>
+    <answer>Noite</answer>
+    <sortorder>5</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>10</qid>
+    <code>FERIADOS</code>
+    <answer>Feriados</answer>
+    <sortorder>6</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>10</qid>
+    <code>BAIRROS_ESPECIFICOS</code>
+    <answer>Bairros específicos</answer>
+    <sortorder>7</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>11</qid>
+    <code>ATE_3</code>
+    <answer>Até 3 km</answer>
+    <sortorder>1</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>11</qid>
+    <code>4_8</code>
+    <answer>De 4 a 8 km</answer>
+    <sortorder>2</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>11</qid>
+    <code>9_15</code>
+    <answer>De 9 a 15 km</answer>
+    <sortorder>3</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>11</qid>
+    <code>16_25</code>
+    <answer>De 16 a 25 km</answer>
+    <sortorder>4</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>11</qid>
+    <code>MAIS_25</code>
+    <answer>Mais de 25 km</answer>
+    <sortorder>5</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>11</qid>
+    <code>NAO_ATENDO</code>
+    <answer>Não realizo atendimento móvel</answer>
+    <sortorder>6</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>12</qid>
+    <code>ATRASO</code>
+    <answer>Atraso do cliente</answer>
+    <sortorder>1</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>12</qid>
+    <code>CANCELAMENTO</code>
+    <answer>Cancelamento do cliente</answer>
+    <sortorder>2</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>12</qid>
+    <code>AUSENCIA</code>
+    <answer>Cliente não compareceu</answer>
+    <sortorder>3</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>12</qid>
+    <code>RETRABALHO</code>
+    <answer>Necessidade de refazer o serviço</answer>
+    <sortorder>4</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>12</qid>
+    <code>DISPUTA</code>
+    <answer>Reclamação ou disputa</answer>
+    <sortorder>5</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>12</qid>
+    <code>NENHUM</code>
+    <answer>Nenhuma dessas</answer>
+    <sortorder>6</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>13</qid>
+    <code>5_MIN</code>
+    <answer>Até 5 minutos</answer>
+    <sortorder>1</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>13</qid>
+    <code>15_MIN</code>
+    <answer>Até 15 minutos</answer>
+    <sortorder>2</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>13</qid>
+    <code>30_MIN</code>
+    <answer>Até 30 minutos</answer>
+    <sortorder>3</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>13</qid>
+    <code>2_HORAS</code>
+    <answer>Até 2 horas</answer>
+    <sortorder>4</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>13</qid>
+    <code>DIA</code>
+    <answer>Até o fim do dia</answer>
+    <sortorder>5</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>13</qid>
+    <code>VARIA</code>
+    <answer>Depende do horário</answer>
+    <sortorder>6</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>14</qid>
+    <code>TIPO_VEICULO</code>
+    <answer>Tipo e tamanho do veículo</answer>
+    <sortorder>1</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>14</qid>
+    <code>SERVICO</code>
+    <answer>Serviço escolhido</answer>
+    <sortorder>2</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>14</qid>
+    <code>HORARIO</code>
+    <answer>Data e horário desejados</answer>
+    <sortorder>3</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>14</qid>
+    <code>ENDERECO</code>
+    <answer>Endereço, quando for atendimento móvel</answer>
+    <sortorder>4</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>14</qid>
+    <code>TELEFONE</code>
+    <answer>Telefone de contato</answer>
+    <sortorder>5</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>14</qid>
+    <code>OBSERVACOES</code>
+    <answer>Observações ou fotos</answer>
+    <sortorder>6</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>14</qid>
+    <code>NENHUM</code>
+    <answer>Ainda não sei</answer>
+    <sortorder>7</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>15</qid>
+    <code>TEMPO</code>
+    <answer>Falta de tempo</answer>
+    <sortorder>1</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>15</qid>
+    <code>TECNOLOGIA</code>
+    <answer>Dificuldade tecnológica</answer>
+    <sortorder>2</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>15</qid>
+    <code>AGENDA</code>
+    <answer>Atualizar a agenda</answer>
+    <sortorder>3</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>15</qid>
+    <code>EQUIPE</code>
+    <answer>Mais de uma pessoa usando a operação</answer>
+    <sortorder>4</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>15</qid>
+    <code>NOTIFICACOES</code>
+    <answer>Receber e acompanhar notificações</answer>
+    <sortorder>5</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>15</qid>
+    <code>INTERNET</code>
+    <answer>Conectividade</answer>
+    <sortorder>6</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>15</qid>
+    <code>NADA</code>
+    <answer>Nada em especial</answer>
+    <sortorder>7</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>16</qid>
+    <code>SEM_CUSTO</code>
+    <answer>Sem custo durante o piloto</answer>
+    <sortorder>1</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>16</qid>
+    <code>POR_PEDIDO</code>
+    <answer>Taxa por agendamento confirmado</answer>
+    <sortorder>2</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>16</qid>
+    <code>COMISSAO</code>
+    <answer>Percentual sobre o serviço</answer>
+    <sortorder>3</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>16</qid>
+    <code>ASSINATURA</code>
+    <answer>Assinatura mensal</answer>
+    <sortorder>4</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>16</qid>
+    <code>LEAD</code>
+    <answer>Cobrança por cliente interessado</answer>
+    <sortorder>5</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+   <row>
+    <qid>16</qid>
+    <code>OUTRO</code>
+    <answer>Outro</answer>
+    <sortorder>6</sortorder>
+    <language>pt-BR</language>
+    <assessment_value>0</assessment_value>
+    <scale_id>0</scale_id>
+   </row>
+  </rows>
+ </answers>
+ <groups>
+  <fields>
+   <fieldname>gid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>group_name</fieldname>
+   <fieldname>group_order</fieldname>
+   <fieldname>description</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>randomization_group</fieldname>
+   <fieldname>grelevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <gid>1</gid>
+    <sid>946202</sid>
+    <group_name>Pesquisa</group_name>
+    <group_order>0</group_order>
+    <description>Pesquisa de descoberta com estabelecimentos e prestadores de lavagem automotiva e de motocicletas em Brasília.</description>
+    <language>pt-BR</language>
+    <randomization_group />
+    <grelevance />
+   </row>
+  </rows>
+ </groups>
+ <questions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid>1</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>L</type>
+    <title>P01_PERFIL</title>
+    <question>Qual descreve melhor o seu negócio ou serviço?</question>
+    <preg />
+    <help />
+    <other>Y</other>
+    <mandatory>Y</mandatory>
+    <question_order>1</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>2</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>L</type>
+    <title>P02_REGIAO</title>
+    <question>Em qual região você atende principalmente?</question>
+    <preg />
+    <help />
+    <other>Y</other>
+    <mandatory>N</mandatory>
+    <question_order>2</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>3</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>M</type>
+    <title>P03_VEICULOS</title>
+    <question>Quais tipos de veículo você atende atualmente? Selecione todas as opções aplicáveis.</question>
+    <preg />
+    <help />
+    <other>Y</other>
+    <mandatory>Y</mandatory>
+    <question_order>3</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>4</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>M</type>
+    <title>P04_AQUISICAO</title>
+    <question>Como chegam atualmente novos clientes? Selecione todas as opções aplicáveis.</question>
+    <preg />
+    <help />
+    <other>Y</other>
+    <mandatory>N</mandatory>
+    <question_order>4</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>5</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>N</type>
+    <title>P05_CAPACIDADE</title>
+    <question>Quantos atendimentos de lavagem você consegue realizar em uma semana normal?</question>
+    <preg />
+    <help>Informe uma estimativa aproximada.</help>
+    <other>N</other>
+    <mandatory>N</mandatory>
+    <question_order>5</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>6</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>L</type>
+    <title>P06_AGENDA</title>
+    <question>Como a agenda é controlada e atualizada atualmente?</question>
+    <preg />
+    <help />
+    <other>Y</other>
+    <mandatory>Y</mandatory>
+    <question_order>6</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>7</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>L</type>
+    <title>P07_CONFLITOS</title>
+    <question>Com que frequência ocorrem conflitos de horário ou reservas duplicadas?</question>
+    <preg />
+    <help />
+    <other>N</other>
+    <mandatory>Y</mandatory>
+    <question_order>7</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>8</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>M</type>
+    <title>P08_SERVICOS</title>
+    <question>Quais serviços você oferece ou teria interesse em oferecer para motocicletas? Selecione todas as opções aplicáveis.</question>
+    <preg />
+    <help />
+    <other>Y</other>
+    <mandatory>N</mandatory>
+    <question_order>8</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>P03_VEICULOS_MOTO == "Y" or P03_VEICULOS_OUTRO == "Y"</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>9</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>T</type>
+    <title>P09_LIMITES_MOTO</title>
+    <question>Quais cuidados, limitações ou equipamentos específicos são necessários para atender motocicletas?</question>
+    <preg />
+    <help />
+    <other>N</other>
+    <mandatory>N</mandatory>
+    <question_order>9</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>P03_VEICULOS_MOTO == "Y" or P03_VEICULOS_OUTRO == "Y"</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>10</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>M</type>
+    <title>P10_DEMANDA</title>
+    <question>Quais períodos ou regiões têm maior ou menor demanda? Selecione todas as opções aplicáveis.</question>
+    <preg />
+    <help />
+    <other>Y</other>
+    <mandatory>N</mandatory>
+    <question_order>10</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>11</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>L</type>
+    <title>P11_RAIO</title>
+    <question>Qual raio máximo de deslocamento seria viável para atendimento móvel?</question>
+    <preg />
+    <help />
+    <other>N</other>
+    <mandatory>N</mandatory>
+    <question_order>11</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>P01_PERFIL == "MOVEL" or P01_PERFIL == "AMBOS"</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>12</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>M</type>
+    <title>P12_EXCECOES</title>
+    <question>Como são tratados atrasos, cancelamentos, ausência e retrabalho? Selecione as situações que já ocorreram.</question>
+    <preg />
+    <help />
+    <other>Y</other>
+    <mandatory>N</mandatory>
+    <question_order>12</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>13</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>L</type>
+    <title>P13_RESPOSTA</title>
+    <question>Quanto tempo seria aceitável para responder a uma nova solicitação?</question>
+    <preg />
+    <help />
+    <other>N</other>
+    <mandatory>Y</mandatory>
+    <question_order>13</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>14</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>M</type>
+    <title>P14_DADOS</title>
+    <question>Quais informações do cliente são necessárias para aceitar um pedido? Selecione todas as opções aplicáveis.</question>
+    <preg />
+    <help />
+    <other>Y</other>
+    <mandatory>N</mandatory>
+    <question_order>14</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>15</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>M</type>
+    <title>P15_PORTAL</title>
+    <question>O que poderia dificultar o uso diário de um portal? Selecione todas as opções aplicáveis.</question>
+    <preg />
+    <help />
+    <other>Y</other>
+    <mandatory>N</mandatory>
+    <question_order>15</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>16</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>L</type>
+    <title>P16_MODELO</title>
+    <question>Qual modelo de cobrança pareceria mais compreensível para um teste inicial?</question>
+    <preg />
+    <help />
+    <other>Y</other>
+    <mandatory>N</mandatory>
+    <question_order>16</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>17</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>N</type>
+    <title>P17_CAPACIDADE_PILOTO</title>
+    <question>Quantos horários por semana você conseguiria disponibilizar para um piloto controlado?</question>
+    <preg />
+    <help />
+    <other>N</other>
+    <mandatory>N</mandatory>
+    <question_order>17</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>18</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>Y</type>
+    <title>P18_PILOTO</title>
+    <question>Você aceitaria participar de um piloto controlado do iCarWash em Brasília?</question>
+    <preg />
+    <help>A resposta não representa contratação ou obrigação comercial.</help>
+    <other>N</other>
+    <mandatory>N</mandatory>
+    <question_order>18</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+   <row>
+    <qid>19</qid>
+    <parent_qid>0</parent_qid>
+    <sid>946202</sid>
+    <gid>1</gid>
+    <type>T</type>
+    <title>P19_COMENTARIO</title>
+    <question>Que condição seria indispensável para você confiar e continuar usando uma plataforma desse tipo?</question>
+    <preg />
+    <help />
+    <other>N</other>
+    <mandatory>N</mandatory>
+    <question_order>19</question_order>
+    <language>pt-BR</language>
+    <scale_id>0</scale_id>
+    <same_default>0</same_default>
+    <relevance>1</relevance>
+    <modulename />
+   </row>
+  </rows>
+ </questions>
+ <question_attributes>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>attribute</fieldname>
+   <fieldname>value</fieldname>
+   <fieldname>language</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid>5</qid>
+    <attribute>min_num_value_n</attribute>
+    <value>0</value>
+    <language>pt-BR</language>
+   </row>
+   <row>
+    <qid>5</qid>
+    <attribute>maximum_chars</attribute>
+    <value>5</value>
+    <language>pt-BR</language>
+   </row>
+   <row>
+    <qid>9</qid>
+    <attribute>maximum_chars</attribute>
+    <value>1000</value>
+    <language>pt-BR</language>
+   </row>
+   <row>
+    <qid>17</qid>
+    <attribute>min_num_value_n</attribute>
+    <value>0</value>
+    <language>pt-BR</language>
+   </row>
+   <row>
+    <qid>17</qid>
+    <attribute>maximum_chars</attribute>
+    <value>4</value>
+    <language>pt-BR</language>
+   </row>
+   <row>
+    <qid>19</qid>
+    <attribute>maximum_chars</attribute>
+    <value>1000</value>
+    <language>pt-BR</language>
+   </row>
+  </rows>
+ </question_attributes>
+ <surveys>
+  <fields>
+   <fieldname>sid</fieldname>
+   <fieldname>admin</fieldname>
+   <fieldname>expires</fieldname>
+   <fieldname>startdate</fieldname>
+   <fieldname>adminemail</fieldname>
+   <fieldname>anonymized</fieldname>
+   <fieldname>faxto</fieldname>
+   <fieldname>format</fieldname>
+   <fieldname>savetimings</fieldname>
+   <fieldname>template</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>additional_languages</fieldname>
+   <fieldname>datestamp</fieldname>
+   <fieldname>usecookie</fieldname>
+   <fieldname>allowregister</fieldname>
+   <fieldname>allowsave</fieldname>
+   <fieldname>autonumber_start</fieldname>
+   <fieldname>autoredirect</fieldname>
+   <fieldname>allowprev</fieldname>
+   <fieldname>printanswers</fieldname>
+   <fieldname>ipaddr</fieldname>
+   <fieldname>refurl</fieldname>
+   <fieldname>publicstatistics</fieldname>
+   <fieldname>publicgraphs</fieldname>
+   <fieldname>listpublic</fieldname>
+   <fieldname>htmlemail</fieldname>
+   <fieldname>sendconfirmation</fieldname>
+   <fieldname>tokenanswerspersistence</fieldname>
+   <fieldname>assessments</fieldname>
+   <fieldname>usecaptcha</fieldname>
+   <fieldname>usetokens</fieldname>
+   <fieldname>bounce_email</fieldname>
+   <fieldname>attributedescriptions</fieldname>
+   <fieldname>emailresponseto</fieldname>
+   <fieldname>emailnotificationto</fieldname>
+   <fieldname>tokenlength</fieldname>
+   <fieldname>showxquestions</fieldname>
+   <fieldname>showgroupinfo</fieldname>
+   <fieldname>shownoanswer</fieldname>
+   <fieldname>showqnumcode</fieldname>
+   <fieldname>bouncetime</fieldname>
+   <fieldname>bounceprocessing</fieldname>
+   <fieldname>bounceaccounttype</fieldname>
+   <fieldname>bounceaccounthost</fieldname>
+   <fieldname>bounceaccountpass</fieldname>
+   <fieldname>bounceaccountencryption</fieldname>
+   <fieldname>bounceaccountuser</fieldname>
+   <fieldname>showwelcome</fieldname>
+   <fieldname>showprogress</fieldname>
+   <fieldname>questionindex</fieldname>
+   <fieldname>navigationdelay</fieldname>
+   <fieldname>nokeyboard</fieldname>
+   <fieldname>alloweditaftercompletion</fieldname>
+   <fieldname>googleanalyticsstyle</fieldname>
+   <fieldname>googleanalyticsapikey</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <sid>946202</sid>
+    <admin>iCarWash</admin>
+    <expires />
+    <startdate />
+    <adminemail />
+    <anonymized>Y</anonymized>
+    <faxto />
+    <format>G</format>
+    <savetimings>N</savetimings>
+    <template>fruity</template>
+    <language>pt-BR</language>
+    <additional_languages />
+    <datestamp>N</datestamp>
+    <usecookie>N</usecookie>
+    <allowregister>N</allowregister>
+    <allowsave>Y</allowsave>
+    <autonumber_start>0</autonumber_start>
+    <autoredirect>N</autoredirect>
+    <allowprev>Y</allowprev>
+    <printanswers>N</printanswers>
+    <ipaddr>N</ipaddr>
+    <refurl>N</refurl>
+    <publicstatistics>N</publicstatistics>
+    <publicgraphs>N</publicgraphs>
+    <listpublic>N</listpublic>
+    <htmlemail>Y</htmlemail>
+    <sendconfirmation>N</sendconfirmation>
+    <tokenanswerspersistence>N</tokenanswerspersistence>
+    <assessments>N</assessments>
+    <usecaptcha>N</usecaptcha>
+    <usetokens>N</usetokens>
+    <bounce_email />
+    <attributedescriptions />
+    <emailresponseto />
+    <emailnotificationto />
+    <tokenlength>15</tokenlength>
+    <showxquestions>Y</showxquestions>
+    <showgroupinfo>B</showgroupinfo>
+    <shownoanswer>N</shownoanswer>
+    <showqnumcode>X</showqnumcode>
+    <bouncetime>0</bouncetime>
+    <bounceprocessing>N</bounceprocessing>
+    <bounceaccounttype />
+    <bounceaccounthost />
+    <bounceaccountpass />
+    <bounceaccountencryption />
+    <bounceaccountuser />
+    <showwelcome>Y</showwelcome>
+    <showprogress>Y</showprogress>
+    <questionindex>0</questionindex>
+    <navigationdelay>0</navigationdelay>
+    <nokeyboard>N</nokeyboard>
+    <alloweditaftercompletion>N</alloweditaftercompletion>
+    <googleanalyticsstyle />
+    <googleanalyticsapikey />
+   </row>
+  </rows>
+ </surveys>
+ <surveys_languagesettings>
+  <fields>
+   <fieldname>surveyls_survey_id</fieldname>
+   <fieldname>surveyls_language</fieldname>
+   <fieldname>surveyls_title</fieldname>
+   <fieldname>surveyls_description</fieldname>
+   <fieldname>surveyls_welcometext</fieldname>
+   <fieldname>surveyls_endtext</fieldname>
+   <fieldname>surveyls_url</fieldname>
+   <fieldname>surveyls_urldescription</fieldname>
+   <fieldname>surveyls_email_invite_subj</fieldname>
+   <fieldname>surveyls_email_invite</fieldname>
+   <fieldname>surveyls_email_remind_subj</fieldname>
+   <fieldname>surveyls_email_remind</fieldname>
+   <fieldname>surveyls_email_register_subj</fieldname>
+   <fieldname>surveyls_email_register</fieldname>
+   <fieldname>surveyls_email_confirm_subj</fieldname>
+   <fieldname>surveyls_email_confirm</fieldname>
+   <fieldname>surveyls_dateformat</fieldname>
+   <fieldname>surveyls_attributecaptions</fieldname>
+   <fieldname>email_admin_notification_subj</fieldname>
+   <fieldname>email_admin_notification</fieldname>
+   <fieldname>email_admin_responses_subj</fieldname>
+   <fieldname>email_admin_responses</fieldname>
+   <fieldname>surveyls_numberformat</fieldname>
+   <fieldname>attachments</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <surveyls_survey_id>946202</surveyls_survey_id>
+    <surveyls_language>pt-BR</surveyls_language>
+    <surveyls_title>Pesquisa com parceiros de lavagem — iCarWash</surveyls_title>
+    <surveyls_description>Pesquisa de descoberta com estabelecimentos e prestadores de lavagem automotiva e de motocicletas em Brasília.</surveyls_description>
+    <surveyls_welcometext>Esta pesquisa busca entender a operação atual dos parceiros. Não há promessa de contratação ou benefício. Evite informar dados pessoais desnecessários. Tempo estimado: 8 a 12 minutos.</surveyls_welcometext>
+    <surveyls_endtext>Obrigado. Suas respostas ajudarão a estruturar o piloto do iCarWash.</surveyls_endtext>
+    <surveyls_url />
+    <surveyls_urldescription />
+    <surveyls_email_invite_subj>Convite para participar da pesquisa iCarWash</surveyls_email_invite_subj>
+    <surveyls_email_invite />
+    <surveyls_email_remind_subj>Lembrete: pesquisa iCarWash</surveyls_email_remind_subj>
+    <surveyls_email_remind />
+    <surveyls_email_register_subj />
+    <surveyls_email_register />
+    <surveyls_email_confirm_subj />
+    <surveyls_email_confirm />
+    <surveyls_dateformat>5</surveyls_dateformat>
+    <surveyls_attributecaptions />
+    <email_admin_notification_subj />
+    <email_admin_notification />
+    <email_admin_responses_subj />
+    <email_admin_responses />
+    <surveyls_numberformat>0</surveyls_numberformat>
+    <attachments />
+   </row>
+  </rows>
+ </surveys_languagesettings>
+</document>

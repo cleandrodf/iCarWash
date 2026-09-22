@@ -18,6 +18,8 @@ As decisões técnicas e a comparação de provedores estão em [`docs/architect
 
 Os registros de execução ficam em [`docs/registro-de-decisoes.md`](docs/registro-de-decisoes.md), [`docs/registro-de-riscos.md`](docs/registro-de-riscos.md), [`docs/roteiro-entrevistas-descoberta.md`](docs/roteiro-entrevistas-descoberta.md) e [`docs/dicionario-indicadores-piloto.md`](docs/dicionario-indicadores-piloto.md).
 
+As pesquisas prontas para LimeSurvey e outras plataformas estão documentadas em [`docs/pesquisa-limesurvey.md`](docs/pesquisa-limesurvey.md), com arquivos LSS nativos e CSV portáteis em [`docs/pesquisa/`](docs/pesquisa/).
+
 ## Executar localmente
 
 É necessário Node.js 22 e pnpm.

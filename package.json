@@ -16,6 +16,8 @@
     "check": "tsc --noEmit",
     "test": "vitest run",
     "test:smoke-db": "tsx scripts/smoke-database.ts",
+    "survey:generate": "python3 scripts/generate-limesurvey.py",
+    "survey:validate": "python3 scripts/validate-limesurvey.py",
     "db:generate": "drizzle-kit generate",
     "db:migrate": "tsx scripts/migrate.ts",
     "db:seed": "tsx server/seed.ts"
