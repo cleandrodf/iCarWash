@@ -89,3 +89,8 @@ O trabalho ativo começou com discovery e seleção hiperlocal. O objetivo imedi
 ## Aviso sobre os dados de demonstração
 
 Nomes, endereços, preços, avaliações e horários do seed são fictícios e servem apenas para desenvolvimento. Eles não representam ofertas comerciais reais.
+
+
+## Armazenamento dos artefatos
+
+Além do GitHub, os artefatos do projeto devem ser mantidos em `C:\Users\clean\OneDrive\Documents\Projeto_ZeloGO`. Como essa pasta não está montada no ambiente Linux do agente, o repositório inclui o [procedimento de armazenamento](docs/armazenamento-artefatos.md) e o [script PowerShell de sincronização](scripts/sincronizar-artefatos-windows.ps1). O script exclui credenciais, caches e diretórios gerados antes de copiar os arquivos versionados para o OneDrive.
