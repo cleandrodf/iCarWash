@@ -94,3 +94,8 @@ Nomes, endereços, preços, avaliações e horários do seed são fictícios e s
 ## Armazenamento dos artefatos
 
 Além do GitHub, os artefatos do projeto devem ser mantidos em `C:\Users\clean\OneDrive\Documents\Projeto_ZeloGO`. Como essa pasta não está montada no ambiente Linux do agente, o repositório inclui o [procedimento de armazenamento](docs/armazenamento-artefatos.md) e o [script PowerShell de sincronização](scripts/sincronizar-artefatos-windows.ps1). O script exclui credenciais, caches e diretórios gerados antes de copiar os arquivos versionados para o OneDrive.
+
+
+## Modelo de entrevistas com parceiros
+
+O modelo Excel e a tabela Markdown para consolidar as entrevistas dos três parceiros potenciais estão em `docs/etapa-1/modelo-entrevistas-parceiros.xlsx` e `docs/etapa-1/modelo-entrevistas-parceiros.md`. O gerador reproduzível está em `scripts/generate-partner-interview-workbook.py`.
